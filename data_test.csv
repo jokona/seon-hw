@@ -1,0 +1,501 @@
+ip_country,ip_city,ip_lat,ip_lon,ip_timezone,local_time,user_country,user_city,amount,transaction_frequency,account_age_days,device_type,payment_method,label
+India,Mumbai,19.076,72.8777,Asia/Kolkata,2025-01-24 15:37:58,India,Mumbai,4564.45,15,3761,web,voucher,0
+United Kingdom,London,51.5074,-0.1278,Europe/London,2025-01-07 10:07:58,United Kingdom,London,674.42,2,1412,mobile,voucher,0
+United Kingdom,London,51.5074,-0.1278,Europe/London,2024-07-26 10:07:58,United Kingdom,London,3936.39,18,2647,web,google_pay,0
+Japan,Tokyo,35.6895,139.6917,Asia/Tokyo,2024-11-18 19:07:58,Japan,Tokyo,3287.39,14,163,web,voucher,0
+Australia,Sydney,-33.8688,151.2093,Australia/Sydney,2024-07-09 21:07:58,Australia,Sydney,1135.95,12,1152,web,credit_card,0
+Japan,Tokyo,35.6895,139.6917,Asia/Tokyo,2024-11-06 19:07:58,India,Mumbai,9303.19,111,136,web,voucher,1
+Canada,Toronto,43.6511,-79.3832,America/Toronto,2024-10-24 06:07:58,Canada,Toronto,3451.92,25,87,web,voucher,0
+Australia,Sydney,-33.8688,151.2093,Australia/Sydney,2024-07-27 21:07:58,Australia,Sydney,875.68,23,824,mobile,google_pay,0
+France,Paris,48.8566,2.3522,Europe/Paris,2024-06-05 11:07:58,France,Paris,3479.78,8,892,web,apple_pay,0
+Germany,Berlin,52.52,13.405,Europe/Berlin,2024-08-04 11:07:58,South Africa,Johannesburg,6435.98,62,158,mobile,credit_card,1
+South Africa,Johannesburg,-26.2041,28.0473,Africa/Johannesburg,2025-01-01 12:07:58,Australia,Sydney,1521.29,149,136,mobile,credit_card,1
+United States,New York,40.7128,-74.006,America/New_York,2024-04-14 06:07:58,United States,New York,1666.42,7,3265,mobile,google_pay,0
+France,Paris,48.8566,2.3522,Europe/Paris,2024-08-18 11:07:58,United Kingdom,London,6276.8,70,145,web,apple_pay,1
+India,Mumbai,19.076,72.8777,Asia/Kolkata,2024-08-16 15:37:58,India,Mumbai,2791.07,10,857,mobile,credit_card,0
+United Kingdom,London,51.5074,-0.1278,Europe/London,2024-11-20 10:07:58,United Kingdom,London,1145.64,19,3441,mobile,credit_card,0
+Germany,Berlin,52.52,13.405,Europe/Berlin,2024-11-07 11:07:58,Germany,Berlin,4113.95,19,2577,web,voucher,0
+South Africa,Johannesburg,-26.2041,28.0473,Africa/Johannesburg,2024-11-12 12:07:58,South Africa,Johannesburg,727.48,26,3693,web,google_pay,0
+France,Paris,48.8566,2.3522,Europe/Paris,2024-10-20 11:07:58,Brazil,São Paulo,3304.94,84,132,web,paypal,1
+United Kingdom,London,51.5074,-0.1278,Europe/London,2024-10-28 10:07:58,Canada,Toronto,6349.28,200,54,web,google_pay,1
+Germany,Berlin,52.52,13.405,Europe/Berlin,2024-12-11 11:07:58,United States,New York,4280.27,89,162,mobile,apple_pay,1
+Germany,Berlin,52.52,13.405,Europe/Berlin,2024-03-27 11:07:58,Japan,Tokyo,5665.56,80,127,web,credit_card,1
+United States,New York,40.7128,-74.006,America/New_York,2024-09-07 06:07:58,United States,New York,2559.3,15,189,web,google_pay,0
+United States,New York,40.7128,-74.006,America/New_York,2024-05-12 06:07:58,United States,New York,4660.82,1,1385,mobile,voucher,0
+France,Paris,48.8566,2.3522,Europe/Paris,2024-09-12 11:07:58,France,Paris,4606.39,14,3115,mobile,apple_pay,0
+France,Paris,48.8566,2.3522,Europe/Paris,2024-09-13 11:07:58,France,Paris,2802.2,178,129,mobile,voucher,1
+Germany,Berlin,52.52,13.405,Europe/Berlin,2024-07-08 11:07:58,Germany,Berlin,3932.08,23,1715,web,google_pay,0
+South Africa,Johannesburg,-26.2041,28.0473,Africa/Johannesburg,2025-01-22 12:07:58,Germany,Berlin,1335.37,137,52,web,voucher,1
+United States,New York,40.7128,-74.006,America/New_York,2024-07-01 06:07:58,United States,New York,1736.02,22,3013,mobile,google_pay,0
+Japan,Tokyo,35.6895,139.6917,Asia/Tokyo,2024-08-21 19:07:58,Japan,Tokyo,1877.56,28,2783,web,voucher,0
+South Africa,Johannesburg,-26.2041,28.0473,Africa/Johannesburg,2024-12-01 12:07:58,South Africa,Johannesburg,291.9,24,2210,mobile,credit_card,0
+Japan,Tokyo,35.6895,139.6917,Asia/Tokyo,2024-11-11 19:07:58,Japan,Tokyo,1912.38,29,3267,web,credit_card,0
+Germany,Berlin,52.52,13.405,Europe/Berlin,2024-06-25 11:07:58,South Africa,Johannesburg,5490.21,121,83,web,google_pay,1
+Australia,Sydney,-33.8688,151.2093,Australia/Sydney,2024-07-09 21:07:58,Japan,Tokyo,5804.6,85,28,mobile,paypal,1
+South Africa,Johannesburg,-26.2041,28.0473,Africa/Johannesburg,2024-12-17 12:07:58,South Africa,Johannesburg,2768.15,26,476,mobile,credit_card,0
+France,Paris,48.8566,2.3522,Europe/Paris,2024-04-12 11:07:58,France,Paris,2298.69,11,1489,mobile,credit_card,0
+France,Paris,48.8566,2.3522,Europe/Paris,2024-06-18 11:07:58,France,Paris,3306.19,13,2352,mobile,apple_pay,0
+United States,New York,40.7128,-74.006,America/New_York,2024-11-12 06:07:58,India,Mumbai,5630.99,134,71,web,paypal,1
+Brazil,São Paulo,-23.5505,-46.6333,America/Sao_Paulo,2024-07-04 07:07:58,Brazil,São Paulo,2485.45,7,4297,web,google_pay,0
+India,Mumbai,19.076,72.8777,Asia/Kolkata,2024-07-21 15:37:58,India,Mumbai,794.64,10,3516,web,apple_pay,0
+Japan,Tokyo,35.6895,139.6917,Asia/Tokyo,2024-08-29 19:07:58,Japan,Tokyo,2681.31,27,2198,mobile,voucher,0
+Canada,Toronto,43.6511,-79.3832,America/Toronto,2024-05-30 06:07:58,Canada,Toronto,2771.09,9,821,web,credit_card,0
+South Africa,Johannesburg,-26.2041,28.0473,Africa/Johannesburg,2024-11-09 12:07:58,South Africa,Johannesburg,316.89,21,3854,web,apple_pay,0
+Japan,Tokyo,35.6895,139.6917,Asia/Tokyo,2025-02-26 19:07:58,Japan,Tokyo,2744.27,27,1976,web,credit_card,0
+Germany,Berlin,52.52,13.405,Europe/Berlin,2025-01-02 11:07:58,Germany,Berlin,97.85,20,3267,mobile,google_pay,0
+Japan,Tokyo,35.6895,139.6917,Asia/Tokyo,2024-08-12 19:07:58,France,Paris,9693.7,144,161,mobile,paypal,1
+India,Mumbai,19.076,72.8777,Asia/Kolkata,2024-04-21 15:37:58,India,Mumbai,4120.17,25,522,mobile,google_pay,0
+Germany,Berlin,52.52,13.405,Europe/Berlin,2025-01-26 11:07:58,Germany,Berlin,3189.39,7,2291,web,credit_card,0
+Brazil,São Paulo,-23.5505,-46.6333,America/Sao_Paulo,2024-11-01 07:07:58,Brazil,São Paulo,2148.87,12,2189,web,voucher,0
+Australia,Sydney,-33.8688,151.2093,Australia/Sydney,2024-08-24 21:07:58,Australia,Sydney,3527.16,24,2041,web,voucher,0
+Germany,Berlin,52.52,13.405,Europe/Berlin,2024-10-11 11:07:58,Germany,Berlin,3114.33,27,1240,web,paypal,0
+Germany,Berlin,52.52,13.405,Europe/Berlin,2024-12-30 11:07:58,Germany,Berlin,545.79,1,122,web,google_pay,0
+Germany,Berlin,52.52,13.405,Europe/Berlin,2024-09-12 11:07:58,Germany,Berlin,4461.22,17,1627,web,credit_card,0
+Australia,Sydney,-33.8688,151.2093,Australia/Sydney,2024-04-29 21:07:58,Australia,Sydney,562.5,6,512,mobile,voucher,0
+France,Paris,48.8566,2.3522,Europe/Paris,2024-06-09 11:07:58,Australia,Sydney,5146.84,66,114,web,apple_pay,1
+Australia,Sydney,-33.8688,151.2093,Australia/Sydney,2024-08-09 21:07:58,Australia,Sydney,2144.24,24,509,web,credit_card,0
+Australia,Sydney,-33.8688,151.2093,Australia/Sydney,2024-05-02 21:07:58,United Kingdom,London,4052.86,91,11,mobile,paypal,1
+Australia,Sydney,-33.8688,151.2093,Australia/Sydney,2024-12-30 21:07:58,Australia,Sydney,1362.63,4,687,web,credit_card,0
+South Africa,Johannesburg,-26.2041,28.0473,Africa/Johannesburg,2024-10-29 12:07:58,South Africa,Johannesburg,2192.54,28,2796,web,apple_pay,0
+Brazil,São Paulo,-23.5505,-46.6333,America/Sao_Paulo,2024-09-11 07:07:58,Brazil,São Paulo,4087.59,18,1888,mobile,credit_card,0
+Brazil,São Paulo,-23.5505,-46.6333,America/Sao_Paulo,2024-08-14 07:07:58,Germany,Berlin,8421.89,147,149,mobile,voucher,1
+South Africa,Johannesburg,-26.2041,28.0473,Africa/Johannesburg,2024-10-28 12:07:58,South Africa,Johannesburg,4569.44,16,693,web,credit_card,0
+Germany,Berlin,52.52,13.405,Europe/Berlin,2025-02-21 11:07:58,Germany,Berlin,1413.36,11,2823,web,paypal,0
+United States,New York,40.7128,-74.006,America/New_York,2024-10-13 06:07:58,United States,New York,2786.63,26,4753,web,credit_card,0
+United States,New York,40.7128,-74.006,America/New_York,2024-05-31 06:07:58,United States,New York,1411.2,1,1490,web,google_pay,0
+Australia,Sydney,-33.8688,151.2093,Australia/Sydney,2024-04-21 21:07:58,Australia,Sydney,2753.36,5,4203,mobile,voucher,0
+Germany,Berlin,52.52,13.405,Europe/Berlin,2024-06-27 11:07:58,Germany,Berlin,659.16,10,4211,web,credit_card,0
+South Africa,Johannesburg,-26.2041,28.0473,Africa/Johannesburg,2025-02-13 12:07:58,South Africa,Johannesburg,4877.23,1,3554,mobile,credit_card,0
+India,Mumbai,19.076,72.8777,Asia/Kolkata,2024-05-05 15:37:58,Germany,Berlin,2320.58,90,23,web,paypal,1
+South Africa,Johannesburg,-26.2041,28.0473,Africa/Johannesburg,2024-09-05 12:07:58,South Africa,Johannesburg,1028.55,12,3685,mobile,google_pay,0
+Germany,Berlin,52.52,13.405,Europe/Berlin,2025-01-21 11:07:58,Germany,Berlin,1166.36,25,4794,mobile,credit_card,0
+France,Paris,48.8566,2.3522,Europe/Paris,2024-07-24 11:07:58,South Africa,Johannesburg,2519.91,165,35,mobile,credit_card,1
+Brazil,São Paulo,-23.5505,-46.6333,America/Sao_Paulo,2024-10-30 07:07:58,Brazil,São Paulo,1567.2,25,3527,web,credit_card,0
+South Africa,Johannesburg,-26.2041,28.0473,Africa/Johannesburg,2024-10-13 12:07:58,Canada,Toronto,2801.68,191,73,web,voucher,1
+India,Mumbai,19.076,72.8777,Asia/Kolkata,2024-11-04 15:37:58,France,Paris,4662.2,199,78,mobile,paypal,1
+Japan,Tokyo,35.6895,139.6917,Asia/Tokyo,2024-07-09 19:07:58,Japan,Tokyo,854.16,18,1389,mobile,voucher,0
+Canada,Toronto,43.6511,-79.3832,America/Toronto,2024-09-12 06:07:58,Australia,Sydney,2115.75,179,123,web,paypal,1
+United States,New York,40.7128,-74.006,America/New_York,2024-05-24 06:07:58,United States,New York,4853.4,26,2392,web,voucher,0
+Australia,Sydney,-33.8688,151.2093,Australia/Sydney,2024-04-03 21:07:58,Germany,Berlin,3227.57,157,18,mobile,paypal,1
+India,Mumbai,19.076,72.8777,Asia/Kolkata,2024-12-18 15:37:58,India,Mumbai,1606.31,2,1687,mobile,credit_card,0
+India,Mumbai,19.076,72.8777,Asia/Kolkata,2025-02-27 15:37:58,India,Mumbai,1308.72,28,2359,mobile,apple_pay,0
+Japan,Tokyo,35.6895,139.6917,Asia/Tokyo,2024-07-07 19:07:58,Japan,Tokyo,1087.66,16,3467,mobile,voucher,0
+Australia,Sydney,-33.8688,151.2093,Australia/Sydney,2024-09-11 21:07:58,Australia,Sydney,821.31,7,1982,mobile,paypal,0
+South Africa,Johannesburg,-26.2041,28.0473,Africa/Johannesburg,2024-07-19 12:07:58,South Africa,Johannesburg,2961.95,14,3494,mobile,paypal,0
+Brazil,São Paulo,-23.5505,-46.6333,America/Sao_Paulo,2024-11-07 07:07:58,Brazil,São Paulo,4388.6,28,2170,web,credit_card,0
+South Africa,Johannesburg,-26.2041,28.0473,Africa/Johannesburg,2025-02-12 12:07:58,South Africa,Johannesburg,4311.17,19,4844,web,google_pay,0
+India,Mumbai,19.076,72.8777,Asia/Kolkata,2024-06-03 15:37:58,India,Mumbai,3786.48,25,3518,web,paypal,0
+Australia,Sydney,-33.8688,151.2093,Australia/Sydney,2024-04-14 21:07:58,Australia,Sydney,31.01,8,3468,web,voucher,0
+United States,New York,40.7128,-74.006,America/New_York,2024-10-05 06:07:58,United States,New York,799.85,19,1151,mobile,paypal,0
+Australia,Sydney,-33.8688,151.2093,Australia/Sydney,2024-10-19 21:07:58,Australia,Sydney,2339.7,13,2059,web,voucher,0
+India,Mumbai,19.076,72.8777,Asia/Kolkata,2024-10-12 15:37:58,India,Mumbai,2701.77,21,4339,web,apple_pay,0
+France,Paris,48.8566,2.3522,Europe/Paris,2024-12-28 11:07:58,France,Paris,1444.04,6,3432,web,credit_card,0
+United Kingdom,London,51.5074,-0.1278,Europe/London,2024-08-31 10:07:58,United Kingdom,London,787.21,11,1221,web,voucher,0
+United Kingdom,London,51.5074,-0.1278,Europe/London,2024-10-31 10:07:58,United Kingdom,London,885.42,14,4009,web,credit_card,0
+Australia,Sydney,-33.8688,151.2093,Australia/Sydney,2024-06-13 21:07:58,Germany,Berlin,5403.53,97,74,web,google_pay,1
+Brazil,São Paulo,-23.5505,-46.6333,America/Sao_Paulo,2024-12-19 07:07:58,Australia,Sydney,4705.49,115,43,mobile,apple_pay,1
+France,Paris,48.8566,2.3522,Europe/Paris,2024-09-24 11:07:58,France,Paris,923.53,17,3049,mobile,voucher,0
+Canada,Toronto,43.6511,-79.3832,America/Toronto,2024-12-05 06:07:58,Canada,Toronto,2489.09,26,4673,mobile,google_pay,0
+Germany,Berlin,52.52,13.405,Europe/Berlin,2024-07-17 11:07:58,Germany,Berlin,2865.78,25,2201,mobile,voucher,0
+Canada,Toronto,43.6511,-79.3832,America/Toronto,2025-01-10 06:07:58,Canada,Toronto,659.5,16,2622,web,apple_pay,0
+France,Paris,48.8566,2.3522,Europe/Paris,2024-09-03 11:07:58,United Kingdom,London,9080.83,133,27,mobile,credit_card,1
+South Africa,Johannesburg,-26.2041,28.0473,Africa/Johannesburg,2024-08-13 12:07:58,South Africa,Johannesburg,3149.85,12,114,web,voucher,0
+United Kingdom,London,51.5074,-0.1278,Europe/London,2024-04-09 10:07:58,United Kingdom,London,740.45,24,4809,mobile,voucher,0
+Canada,Toronto,43.6511,-79.3832,America/Toronto,2024-10-15 06:07:58,Canada,Toronto,3305.58,4,4358,mobile,paypal,0
+France,Paris,48.8566,2.3522,Europe/Paris,2024-10-14 11:07:58,France,Paris,3005.44,5,3580,web,paypal,0
+India,Mumbai,19.076,72.8777,Asia/Kolkata,2024-08-25 15:37:58,India,Mumbai,764.09,22,322,mobile,credit_card,0
+South Africa,Johannesburg,-26.2041,28.0473,Africa/Johannesburg,2024-06-21 12:07:58,South Africa,Johannesburg,3391.14,2,1120,web,credit_card,0
+Australia,Sydney,-33.8688,151.2093,Australia/Sydney,2025-01-08 21:07:58,Australia,Sydney,4056.37,1,4641,mobile,credit_card,0
+Japan,Tokyo,35.6895,139.6917,Asia/Tokyo,2024-05-30 19:07:58,Japan,Tokyo,1186.84,11,2580,mobile,apple_pay,0
+India,Mumbai,19.076,72.8777,Asia/Kolkata,2025-01-21 15:37:58,India,Mumbai,4437.13,7,3579,mobile,voucher,0
+Australia,Sydney,-33.8688,151.2093,Australia/Sydney,2024-10-23 21:07:58,Australia,Sydney,2501.79,15,4145,web,credit_card,0
+United States,New York,40.7128,-74.006,America/New_York,2024-11-11 06:07:58,United States,New York,3431.63,20,2853,mobile,google_pay,0
+United States,New York,40.7128,-74.006,America/New_York,2024-10-04 06:07:58,United States,New York,649.57,14,4191,web,apple_pay,0
+United States,New York,40.7128,-74.006,America/New_York,2024-06-30 06:07:58,United States,New York,571.87,23,4088,web,apple_pay,0
+Brazil,São Paulo,-23.5505,-46.6333,America/Sao_Paulo,2024-11-17 07:07:58,Brazil,São Paulo,3897.74,5,4647,mobile,paypal,0
+Germany,Berlin,52.52,13.405,Europe/Berlin,2024-04-05 11:07:58,Germany,Berlin,2009.62,16,4878,web,apple_pay,0
+Canada,Toronto,43.6511,-79.3832,America/Toronto,2025-01-27 06:07:58,South Africa,Johannesburg,7592.06,170,137,web,apple_pay,1
+France,Paris,48.8566,2.3522,Europe/Paris,2024-05-06 11:07:58,France,Paris,1368.72,3,4511,web,apple_pay,0
+Canada,Toronto,43.6511,-79.3832,America/Toronto,2024-06-10 06:07:58,Germany,Berlin,3093.29,152,64,web,credit_card,1
+United States,New York,40.7128,-74.006,America/New_York,2024-12-15 06:07:58,United States,New York,181.93,19,60,web,voucher,0
+United Kingdom,London,51.5074,-0.1278,Europe/London,2024-12-11 10:07:58,Australia,Sydney,6029.79,94,80,mobile,google_pay,1
+United States,New York,40.7128,-74.006,America/New_York,2025-01-01 06:07:58,United States,New York,1398.88,2,1476,web,voucher,0
+Canada,Toronto,43.6511,-79.3832,America/Toronto,2024-03-28 06:07:58,Canada,Toronto,4837.91,14,3006,web,credit_card,0
+United Kingdom,London,51.5074,-0.1278,Europe/London,2024-07-27 10:07:58,United Kingdom,London,2415.12,30,2858,web,voucher,0
+India,Mumbai,19.076,72.8777,Asia/Kolkata,2024-11-18 15:37:58,Japan,Tokyo,2040.98,85,132,web,paypal,1
+United Kingdom,London,51.5074,-0.1278,Europe/London,2024-04-14 10:07:58,Canada,Toronto,4193.33,167,131,mobile,paypal,1
+Australia,Sydney,-33.8688,151.2093,Australia/Sydney,2024-10-04 21:07:58,Australia,Sydney,1305.75,26,4970,web,credit_card,0
+Canada,Toronto,43.6511,-79.3832,America/Toronto,2024-05-13 06:07:58,Australia,Sydney,7662.98,151,144,mobile,credit_card,1
+Australia,Sydney,-33.8688,151.2093,Australia/Sydney,2024-10-12 21:07:58,Australia,Sydney,4089.99,15,1394,web,apple_pay,0
+Australia,Sydney,-33.8688,151.2093,Australia/Sydney,2024-11-28 21:07:58,Australia,Sydney,3889.89,5,336,mobile,voucher,0
+South Africa,Johannesburg,-26.2041,28.0473,Africa/Johannesburg,2024-10-21 12:07:58,South Africa,Johannesburg,3911.33,13,1038,web,paypal,0
+Germany,Berlin,52.52,13.405,Europe/Berlin,2024-03-16 11:07:58,Germany,Berlin,4639.96,5,65,mobile,voucher,0
+Germany,Berlin,52.52,13.405,Europe/Berlin,2025-01-31 11:07:58,United States,New York,9545.21,175,43,mobile,voucher,1
+Brazil,São Paulo,-23.5505,-46.6333,America/Sao_Paulo,2025-01-12 07:07:58,Brazil,São Paulo,2091.54,14,3001,mobile,google_pay,0
+Canada,Toronto,43.6511,-79.3832,America/Toronto,2025-02-04 06:07:58,Canada,Toronto,4011.49,17,295,mobile,paypal,0
+Canada,Toronto,43.6511,-79.3832,America/Toronto,2024-05-04 06:07:58,South Africa,Johannesburg,3569.21,160,156,web,voucher,1
+Germany,Berlin,52.52,13.405,Europe/Berlin,2024-03-24 11:07:58,Germany,Berlin,3551.27,9,234,mobile,credit_card,0
+Japan,Tokyo,35.6895,139.6917,Asia/Tokyo,2024-08-30 19:07:58,Japan,Tokyo,3514.17,30,3703,web,paypal,0
+South Africa,Johannesburg,-26.2041,28.0473,Africa/Johannesburg,2024-07-15 12:07:58,South Africa,Johannesburg,2606.53,27,2651,mobile,credit_card,0
+Australia,Sydney,-33.8688,151.2093,Australia/Sydney,2024-09-06 21:07:58,Australia,Sydney,4527.05,30,3569,mobile,paypal,0
+United States,New York,40.7128,-74.006,America/New_York,2025-02-08 06:07:58,United States,New York,3103.78,18,1064,mobile,apple_pay,0
+Australia,Sydney,-33.8688,151.2093,Australia/Sydney,2024-09-24 21:07:58,Australia,Sydney,3671.97,12,2269,web,apple_pay,0
+Canada,Toronto,43.6511,-79.3832,America/Toronto,2024-12-29 06:07:58,Canada,Toronto,1547.0,13,1964,mobile,paypal,0
+France,Paris,48.8566,2.3522,Europe/Paris,2024-05-08 11:07:58,France,Paris,751.68,17,4378,web,voucher,0
+India,Mumbai,19.076,72.8777,Asia/Kolkata,2024-10-09 15:37:58,India,Mumbai,790.08,18,479,mobile,voucher,0
+Japan,Tokyo,35.6895,139.6917,Asia/Tokyo,2024-09-11 19:07:58,Japan,Tokyo,688.97,5,3878,mobile,apple_pay,0
+United Kingdom,London,51.5074,-0.1278,Europe/London,2024-08-17 10:07:58,Canada,Toronto,6581.8,65,150,web,credit_card,1
+United States,New York,40.7128,-74.006,America/New_York,2024-08-07 06:07:58,Brazil,São Paulo,3156.5,197,32,web,paypal,1
+Brazil,São Paulo,-23.5505,-46.6333,America/Sao_Paulo,2024-10-17 07:07:58,Brazil,São Paulo,3041.1,20,2888,mobile,credit_card,0
+United States,New York,40.7128,-74.006,America/New_York,2024-05-17 06:07:58,Germany,Berlin,2918.95,158,85,mobile,google_pay,1
+Brazil,São Paulo,-23.5505,-46.6333,America/Sao_Paulo,2024-04-30 07:07:58,Germany,Berlin,3462.07,135,76,web,apple_pay,1
+Canada,Toronto,43.6511,-79.3832,America/Toronto,2024-05-05 06:07:58,Canada,Toronto,1225.52,17,3507,web,credit_card,0
+United States,New York,40.7128,-74.006,America/New_York,2024-09-15 06:07:58,United States,New York,2688.4,12,3793,web,paypal,0
+Canada,Toronto,43.6511,-79.3832,America/Toronto,2025-01-21 06:07:58,Canada,Toronto,4118.02,29,3619,web,apple_pay,0
+Brazil,São Paulo,-23.5505,-46.6333,America/Sao_Paulo,2024-04-30 07:07:58,Brazil,São Paulo,421.95,1,1502,web,voucher,0
+United Kingdom,London,51.5074,-0.1278,Europe/London,2025-03-05 10:07:58,United Kingdom,London,1570.1,25,455,mobile,paypal,0
+France,Paris,48.8566,2.3522,Europe/Paris,2024-12-24 11:07:58,France,Paris,1413.39,6,586,mobile,voucher,0
+Germany,Berlin,52.52,13.405,Europe/Berlin,2024-07-31 11:07:58,Germany,Berlin,3382.01,24,3770,web,voucher,0
+India,Mumbai,19.076,72.8777,Asia/Kolkata,2024-12-11 15:37:58,India,Mumbai,106.45,4,3737,web,google_pay,0
+South Africa,Johannesburg,-26.2041,28.0473,Africa/Johannesburg,2024-09-19 12:07:58,South Africa,Johannesburg,4360.68,6,547,web,credit_card,0
+Canada,Toronto,43.6511,-79.3832,America/Toronto,2024-06-16 06:07:58,Canada,Toronto,2616.91,8,2376,mobile,google_pay,0
+South Africa,Johannesburg,-26.2041,28.0473,Africa/Johannesburg,2025-03-09 12:07:58,South Africa,Johannesburg,1495.71,27,1117,mobile,paypal,0
+Germany,Berlin,52.52,13.405,Europe/Berlin,2024-09-14 11:07:58,United Kingdom,London,6721.55,151,36,web,credit_card,1
+South Africa,Johannesburg,-26.2041,28.0473,Africa/Johannesburg,2024-06-24 12:07:58,South Africa,Johannesburg,38.75,2,4643,mobile,apple_pay,0
+Germany,Berlin,52.52,13.405,Europe/Berlin,2025-02-15 11:07:58,Germany,Berlin,1326.87,15,4830,web,credit_card,0
+France,Paris,48.8566,2.3522,Europe/Paris,2025-01-29 11:07:58,France,Paris,3477.07,8,2482,mobile,voucher,0
+Canada,Toronto,43.6511,-79.3832,America/Toronto,2024-05-19 06:07:58,South Africa,Johannesburg,4873.77,112,151,mobile,voucher,1
+Australia,Sydney,-33.8688,151.2093,Australia/Sydney,2025-01-21 21:07:58,Australia,Sydney,2035.99,5,2414,web,credit_card,0
+South Africa,Johannesburg,-26.2041,28.0473,Africa/Johannesburg,2024-07-23 12:07:58,South Africa,Johannesburg,3967.99,27,3341,web,credit_card,0
+Japan,Tokyo,35.6895,139.6917,Asia/Tokyo,2024-06-14 19:07:58,Japan,Tokyo,867.7,14,3539,web,google_pay,0
+United Kingdom,London,51.5074,-0.1278,Europe/London,2024-10-03 10:07:58,France,Paris,2053.58,103,79,web,apple_pay,1
+Japan,Tokyo,35.6895,139.6917,Asia/Tokyo,2025-01-27 19:07:58,Japan,Tokyo,1555.04,21,1356,web,credit_card,0
+Canada,Toronto,43.6511,-79.3832,America/Toronto,2024-09-15 06:07:58,Canada,Toronto,4266.37,14,3023,mobile,paypal,0
+Germany,Berlin,52.52,13.405,Europe/Berlin,2024-09-10 11:07:58,Germany,Berlin,3382.14,1,3170,web,google_pay,0
+Brazil,São Paulo,-23.5505,-46.6333,America/Sao_Paulo,2024-04-06 07:07:58,Brazil,São Paulo,2992.48,24,296,mobile,paypal,0
+India,Mumbai,19.076,72.8777,Asia/Kolkata,2024-06-14 15:37:58,India,Mumbai,916.06,18,762,mobile,voucher,0
+United States,New York,40.7128,-74.006,America/New_York,2024-03-20 06:07:58,United States,New York,4722.6,2,3466,web,credit_card,0
+India,Mumbai,19.076,72.8777,Asia/Kolkata,2024-08-26 15:37:58,India,Mumbai,1694.48,28,2167,mobile,credit_card,0
+United States,New York,40.7128,-74.006,America/New_York,2024-08-24 06:07:58,United States,New York,2093.1,24,3560,mobile,voucher,0
+United Kingdom,London,51.5074,-0.1278,Europe/London,2024-11-23 10:07:58,United Kingdom,London,3700.5,17,471,web,google_pay,0
+South Africa,Johannesburg,-26.2041,28.0473,Africa/Johannesburg,2024-05-04 12:07:58,South Africa,Johannesburg,3448.42,7,2342,web,voucher,0
+Brazil,São Paulo,-23.5505,-46.6333,America/Sao_Paulo,2024-05-16 07:07:58,Brazil,São Paulo,3213.69,6,4433,web,paypal,0
+United States,New York,40.7128,-74.006,America/New_York,2024-06-15 06:07:58,United Kingdom,London,6203.93,80,157,web,google_pay,1
+Japan,Tokyo,35.6895,139.6917,Asia/Tokyo,2025-02-21 19:07:58,Japan,Tokyo,1447.64,14,4529,mobile,paypal,0
+South Africa,Johannesburg,-26.2041,28.0473,Africa/Johannesburg,2024-09-06 12:07:58,Germany,Berlin,9580.86,119,67,web,paypal,1
+Germany,Berlin,52.52,13.405,Europe/Berlin,2024-09-28 11:07:58,Germany,Berlin,3301.26,14,3457,mobile,google_pay,0
+Australia,Sydney,-33.8688,151.2093,Australia/Sydney,2025-02-18 21:07:58,Australia,Sydney,750.71,7,4973,mobile,google_pay,0
+United States,New York,40.7128,-74.006,America/New_York,2024-08-21 06:07:58,United States,New York,4642.97,8,72,mobile,credit_card,0
+Australia,Sydney,-33.8688,151.2093,Australia/Sydney,2024-07-16 21:07:58,Australia,Sydney,4017.44,12,1223,web,paypal,0
+France,Paris,48.8566,2.3522,Europe/Paris,2024-04-17 11:07:58,France,Paris,52.15,29,2699,web,voucher,0
+Australia,Sydney,-33.8688,151.2093,Australia/Sydney,2025-02-16 21:07:58,Australia,Sydney,2132.78,22,1990,web,credit_card,0
+Germany,Berlin,52.52,13.405,Europe/Berlin,2024-04-11 11:07:58,Canada,Toronto,6545.83,100,139,web,google_pay,1
+Germany,Berlin,52.52,13.405,Europe/Berlin,2024-08-10 11:07:58,Germany,Berlin,4905.07,4,2682,mobile,apple_pay,0
+Germany,Berlin,52.52,13.405,Europe/Berlin,2024-11-15 11:07:58,Germany,Berlin,3868.47,3,1900,mobile,voucher,0
+Japan,Tokyo,35.6895,139.6917,Asia/Tokyo,2024-04-16 19:07:58,Japan,Tokyo,3341.45,25,333,web,paypal,0
+United States,New York,40.7128,-74.006,America/New_York,2024-08-14 06:07:58,United States,New York,3241.23,7,1431,mobile,google_pay,0
+Australia,Sydney,-33.8688,151.2093,Australia/Sydney,2024-07-31 21:07:58,Australia,Sydney,4997.36,25,1260,web,apple_pay,0
+France,Paris,48.8566,2.3522,Europe/Paris,2024-07-25 11:07:58,France,Paris,4299.48,9,1612,web,credit_card,0
+Australia,Sydney,-33.8688,151.2093,Australia/Sydney,2024-09-01 21:07:58,Australia,Sydney,3719.04,6,991,mobile,paypal,0
+Japan,Tokyo,35.6895,139.6917,Asia/Tokyo,2024-05-11 19:07:58,Japan,Tokyo,321.07,15,4705,web,credit_card,0
+Brazil,São Paulo,-23.5505,-46.6333,America/Sao_Paulo,2024-07-12 07:07:58,Brazil,São Paulo,1431.82,22,3354,mobile,credit_card,0
+France,Paris,48.8566,2.3522,Europe/Paris,2024-05-18 11:07:58,Australia,Sydney,7697.75,170,59,mobile,apple_pay,1
+Canada,Toronto,43.6511,-79.3832,America/Toronto,2024-05-27 06:07:58,Canada,Toronto,3001.96,14,4396,mobile,voucher,0
+Japan,Tokyo,35.6895,139.6917,Asia/Tokyo,2025-02-15 19:07:58,Japan,Tokyo,1003.51,29,44,web,apple_pay,0
+India,Mumbai,19.076,72.8777,Asia/Kolkata,2024-08-01 15:37:58,India,Mumbai,2468.67,7,1852,web,credit_card,0
+United States,New York,40.7128,-74.006,America/New_York,2024-11-11 06:07:58,United States,New York,3136.47,19,2060,web,paypal,0
+Japan,Tokyo,35.6895,139.6917,Asia/Tokyo,2024-03-15 19:07:58,Japan,Tokyo,1092.6,26,2207,mobile,voucher,0
+South Africa,Johannesburg,-26.2041,28.0473,Africa/Johannesburg,2024-04-13 12:07:58,South Africa,Johannesburg,1051.22,26,1487,web,paypal,0
+United Kingdom,London,51.5074,-0.1278,Europe/London,2024-09-08 10:07:58,United Kingdom,London,4081.09,12,3564,mobile,credit_card,0
+United States,New York,40.7128,-74.006,America/New_York,2024-04-14 06:07:58,United States,New York,1395.89,13,4733,mobile,paypal,0
+Brazil,São Paulo,-23.5505,-46.6333,America/Sao_Paulo,2024-04-08 07:07:58,Brazil,São Paulo,3323.77,25,2428,web,voucher,0
+United Kingdom,London,51.5074,-0.1278,Europe/London,2024-10-15 10:07:58,United Kingdom,London,559.3,5,208,mobile,paypal,0
+Australia,Sydney,-33.8688,151.2093,Australia/Sydney,2024-12-26 21:07:58,Australia,Sydney,593.45,26,2763,mobile,google_pay,0
+Canada,Toronto,43.6511,-79.3832,America/Toronto,2024-07-07 06:07:58,Canada,Toronto,1008.27,3,904,web,paypal,0
+Australia,Sydney,-33.8688,151.2093,Australia/Sydney,2024-08-31 21:07:58,Australia,Sydney,1585.4,5,2484,mobile,google_pay,0
+South Africa,Johannesburg,-26.2041,28.0473,Africa/Johannesburg,2024-07-17 12:07:58,South Africa,Johannesburg,4303.38,1,3236,web,apple_pay,0
+India,Mumbai,19.076,72.8777,Asia/Kolkata,2024-04-12 15:37:58,India,Mumbai,4136.33,13,2966,web,credit_card,0
+South Africa,Johannesburg,-26.2041,28.0473,Africa/Johannesburg,2024-04-17 12:07:58,South Africa,Johannesburg,4037.58,10,374,mobile,apple_pay,0
+Brazil,São Paulo,-23.5505,-46.6333,America/Sao_Paulo,2024-06-06 07:07:58,Brazil,São Paulo,1987.34,16,2750,web,voucher,0
+India,Mumbai,19.076,72.8777,Asia/Kolkata,2025-03-03 15:37:58,India,Mumbai,3611.34,9,3156,web,google_pay,0
+Brazil,São Paulo,-23.5505,-46.6333,America/Sao_Paulo,2024-11-24 07:07:58,Brazil,São Paulo,3923.5,10,573,mobile,paypal,0
+Germany,Berlin,52.52,13.405,Europe/Berlin,2024-09-30 11:07:58,Germany,Berlin,3125.71,19,3187,web,voucher,0
+South Africa,Johannesburg,-26.2041,28.0473,Africa/Johannesburg,2024-06-10 12:07:58,South Africa,Johannesburg,2649.81,20,1561,mobile,credit_card,0
+South Africa,Johannesburg,-26.2041,28.0473,Africa/Johannesburg,2024-09-07 12:07:58,United States,New York,1408.94,127,80,web,credit_card,1
+Australia,Sydney,-33.8688,151.2093,Australia/Sydney,2025-02-10 21:07:58,Australia,Sydney,3046.5,16,952,web,credit_card,0
+United States,New York,40.7128,-74.006,America/New_York,2024-11-27 06:07:58,United States,New York,1271.53,10,1584,web,google_pay,0
+Canada,Toronto,43.6511,-79.3832,America/Toronto,2024-09-21 06:07:58,Canada,Toronto,1618.66,12,1875,web,apple_pay,0
+Australia,Sydney,-33.8688,151.2093,Australia/Sydney,2025-02-28 21:07:58,Australia,Sydney,471.27,1,815,mobile,paypal,0
+Canada,Toronto,43.6511,-79.3832,America/Toronto,2025-01-04 06:07:58,Canada,Toronto,2165.06,26,1025,web,paypal,0
+Canada,Toronto,43.6511,-79.3832,America/Toronto,2025-01-12 06:07:58,Canada,Toronto,1523.09,22,3691,mobile,credit_card,0
+India,Mumbai,19.076,72.8777,Asia/Kolkata,2025-02-03 15:37:58,India,Mumbai,1515.48,26,1360,mobile,google_pay,0
+Brazil,São Paulo,-23.5505,-46.6333,America/Sao_Paulo,2024-09-27 07:07:58,Brazil,São Paulo,4563.1,26,2383,mobile,google_pay,0
+Canada,Toronto,43.6511,-79.3832,America/Toronto,2024-06-07 06:07:58,United States,New York,9874.86,104,27,mobile,credit_card,1
+France,Paris,48.8566,2.3522,Europe/Paris,2024-05-02 11:07:58,France,Paris,4989.67,7,1154,web,apple_pay,0
+Australia,Sydney,-33.8688,151.2093,Australia/Sydney,2024-04-04 21:07:58,Australia,Sydney,705.16,8,3670,web,apple_pay,0
+South Africa,Johannesburg,-26.2041,28.0473,Africa/Johannesburg,2025-01-04 12:07:58,South Africa,Johannesburg,1973.58,28,868,mobile,google_pay,0
+France,Paris,48.8566,2.3522,Europe/Paris,2024-09-24 11:07:58,France,Paris,717.6,30,218,mobile,google_pay,0
+Canada,Toronto,43.6511,-79.3832,America/Toronto,2024-06-17 06:07:58,Canada,Toronto,4587.18,16,3324,mobile,paypal,0
+United States,New York,40.7128,-74.006,America/New_York,2024-04-13 06:07:58,United States,New York,2432.08,17,394,web,paypal,0
+Canada,Toronto,43.6511,-79.3832,America/Toronto,2024-05-20 06:07:58,Canada,Toronto,4347.44,1,796,mobile,voucher,0
+Japan,Tokyo,35.6895,139.6917,Asia/Tokyo,2025-03-03 19:07:58,Japan,Tokyo,3877.34,5,4914,mobile,google_pay,0
+United Kingdom,London,51.5074,-0.1278,Europe/London,2025-03-01 10:07:58,United Kingdom,London,423.15,16,3250,web,apple_pay,0
+India,Mumbai,19.076,72.8777,Asia/Kolkata,2024-07-01 15:37:58,India,Mumbai,2912.86,14,588,web,credit_card,0
+Canada,Toronto,43.6511,-79.3832,America/Toronto,2024-12-18 06:07:58,Canada,Toronto,3883.06,10,2017,web,apple_pay,0
+Brazil,São Paulo,-23.5505,-46.6333,America/Sao_Paulo,2024-03-17 07:07:58,Germany,Berlin,2992.05,62,63,mobile,apple_pay,1
+Canada,Toronto,43.6511,-79.3832,America/Toronto,2024-09-22 06:07:58,United States,New York,8186.24,142,33,web,paypal,1
+South Africa,Johannesburg,-26.2041,28.0473,Africa/Johannesburg,2024-05-07 12:07:58,South Africa,Johannesburg,1535.2,6,54,web,paypal,0
+Japan,Tokyo,35.6895,139.6917,Asia/Tokyo,2024-07-07 19:07:58,Japan,Tokyo,4935.12,16,766,web,credit_card,0
+United Kingdom,London,51.5074,-0.1278,Europe/London,2024-03-23 10:07:58,United Kingdom,London,2400.68,4,2418,mobile,google_pay,0
+Japan,Tokyo,35.6895,139.6917,Asia/Tokyo,2024-10-14 19:07:58,Japan,Tokyo,4288.24,28,1310,web,paypal,0
+South Africa,Johannesburg,-26.2041,28.0473,Africa/Johannesburg,2025-01-13 12:07:58,South Africa,Johannesburg,452.11,5,1953,web,voucher,0
+Japan,Tokyo,35.6895,139.6917,Asia/Tokyo,2025-01-16 19:07:58,Japan,Tokyo,4850.04,13,3115,mobile,credit_card,0
+Australia,Sydney,-33.8688,151.2093,Australia/Sydney,2025-02-24 21:07:58,Australia,Sydney,1642.86,24,2865,mobile,apple_pay,0
+Australia,Sydney,-33.8688,151.2093,Australia/Sydney,2024-09-05 21:07:58,France,Paris,7744.04,71,76,web,credit_card,1
+India,Mumbai,19.076,72.8777,Asia/Kolkata,2024-06-03 15:37:58,Canada,Toronto,4483.09,174,103,web,apple_pay,1
+South Africa,Johannesburg,-26.2041,28.0473,Africa/Johannesburg,2024-07-30 12:07:58,South Africa,Johannesburg,613.81,22,2324,mobile,credit_card,0
+Brazil,São Paulo,-23.5505,-46.6333,America/Sao_Paulo,2024-08-30 07:07:58,Brazil,São Paulo,2893.67,17,1287,web,apple_pay,0
+Japan,Tokyo,35.6895,139.6917,Asia/Tokyo,2024-10-13 19:07:58,Japan,Tokyo,744.72,15,476,web,google_pay,0
+Canada,Toronto,43.6511,-79.3832,America/Toronto,2025-01-22 06:07:58,Canada,Toronto,673.8,18,2729,web,apple_pay,0
+Germany,Berlin,52.52,13.405,Europe/Berlin,2024-10-03 11:07:58,Germany,Berlin,4382.78,5,876,mobile,google_pay,0
+United States,New York,40.7128,-74.006,America/New_York,2024-10-23 06:07:58,United States,New York,911.25,24,46,web,paypal,0
+Canada,Toronto,43.6511,-79.3832,America/Toronto,2024-10-24 06:07:58,Canada,Toronto,672.34,22,4750,web,credit_card,0
+Australia,Sydney,-33.8688,151.2093,Australia/Sydney,2024-05-14 21:07:58,Australia,Sydney,3334.74,25,2038,web,google_pay,0
+India,Mumbai,19.076,72.8777,Asia/Kolkata,2025-02-16 15:37:58,India,Mumbai,1729.2,19,3565,mobile,paypal,0
+India,Mumbai,19.076,72.8777,Asia/Kolkata,2024-05-07 15:37:58,India,Mumbai,4865.48,12,1119,mobile,apple_pay,0
+United States,New York,40.7128,-74.006,America/New_York,2025-03-09 06:07:58,United States,New York,990.07,18,2277,mobile,apple_pay,0
+Brazil,São Paulo,-23.5505,-46.6333,America/Sao_Paulo,2024-06-30 07:07:58,Brazil,São Paulo,3441.88,16,4697,web,credit_card,0
+South Africa,Johannesburg,-26.2041,28.0473,Africa/Johannesburg,2025-03-04 12:07:58,India,Mumbai,1741.96,184,121,mobile,google_pay,1
+Japan,Tokyo,35.6895,139.6917,Asia/Tokyo,2024-09-23 19:07:58,Japan,Tokyo,3167.56,1,4276,mobile,apple_pay,0
+Germany,Berlin,52.52,13.405,Europe/Berlin,2024-04-18 11:07:58,Germany,Berlin,582.5,18,539,web,voucher,0
+Japan,Tokyo,35.6895,139.6917,Asia/Tokyo,2024-10-15 19:07:58,Germany,Berlin,9657.46,128,54,mobile,credit_card,1
+Brazil,São Paulo,-23.5505,-46.6333,America/Sao_Paulo,2024-10-26 07:07:58,South Africa,Johannesburg,9835.82,161,109,mobile,apple_pay,1
+United Kingdom,London,51.5074,-0.1278,Europe/London,2024-03-28 10:07:58,United Kingdom,London,3085.87,17,1363,mobile,paypal,0
+Australia,Sydney,-33.8688,151.2093,Australia/Sydney,2024-06-30 21:07:58,South Africa,Johannesburg,2690.25,109,125,web,apple_pay,1
+Australia,Sydney,-33.8688,151.2093,Australia/Sydney,2024-09-05 21:07:58,Australia,Sydney,456.01,26,3322,mobile,voucher,0
+France,Paris,48.8566,2.3522,Europe/Paris,2025-01-19 11:07:58,France,Paris,3503.54,7,4653,web,google_pay,0
+Brazil,São Paulo,-23.5505,-46.6333,America/Sao_Paulo,2024-10-05 07:07:58,Brazil,São Paulo,4560.45,28,321,web,google_pay,0
+Japan,Tokyo,35.6895,139.6917,Asia/Tokyo,2024-04-30 19:07:58,Japan,Tokyo,2972.46,4,1811,web,credit_card,0
+France,Paris,48.8566,2.3522,Europe/Paris,2024-08-30 11:07:58,France,Paris,236.05,16,2615,mobile,google_pay,0
+Japan,Tokyo,35.6895,139.6917,Asia/Tokyo,2025-03-03 19:07:58,Japan,Tokyo,1324.25,23,4839,mobile,credit_card,0
+India,Mumbai,19.076,72.8777,Asia/Kolkata,2024-05-04 15:37:58,India,Mumbai,1236.52,11,4300,mobile,paypal,0
+Australia,Sydney,-33.8688,151.2093,Australia/Sydney,2024-05-18 21:07:58,Australia,Sydney,4306.75,14,3566,web,credit_card,0
+United States,New York,40.7128,-74.006,America/New_York,2024-11-17 06:07:58,United States,New York,3107.28,11,2564,web,google_pay,0
+India,Mumbai,19.076,72.8777,Asia/Kolkata,2024-10-13 15:37:58,India,Mumbai,3963.84,29,171,web,google_pay,0
+Canada,Toronto,43.6511,-79.3832,America/Toronto,2024-11-20 06:07:58,France,Paris,9487.1,149,157,web,google_pay,1
+Australia,Sydney,-33.8688,151.2093,Australia/Sydney,2025-01-31 21:07:58,Japan,Tokyo,3482.27,92,141,web,apple_pay,1
+United Kingdom,London,51.5074,-0.1278,Europe/London,2024-12-31 10:07:58,United Kingdom,London,3276.46,22,4434,mobile,paypal,0
+Germany,Berlin,52.52,13.405,Europe/Berlin,2025-01-21 11:07:58,Germany,Berlin,3801.43,11,2737,mobile,voucher,0
+United States,New York,40.7128,-74.006,America/New_York,2024-09-10 06:07:58,United States,New York,2831.86,14,450,mobile,credit_card,0
+South Africa,Johannesburg,-26.2041,28.0473,Africa/Johannesburg,2024-06-30 12:07:58,Germany,Berlin,6058.67,163,126,web,google_pay,1
+India,Mumbai,19.076,72.8777,Asia/Kolkata,2024-05-31 15:37:58,India,Mumbai,1444.62,9,4990,mobile,credit_card,0
+Canada,Toronto,43.6511,-79.3832,America/Toronto,2024-12-26 06:07:58,Canada,Toronto,1087.35,19,2765,mobile,google_pay,0
+Canada,Toronto,43.6511,-79.3832,America/Toronto,2025-01-13 06:07:58,Canada,Toronto,3882.56,22,4511,mobile,google_pay,0
+Australia,Sydney,-33.8688,151.2093,Australia/Sydney,2025-01-23 21:07:58,Australia,Sydney,4011.47,18,623,mobile,paypal,0
+South Africa,Johannesburg,-26.2041,28.0473,Africa/Johannesburg,2024-12-02 12:07:58,South Africa,Johannesburg,3913.86,19,2814,web,voucher,0
+Canada,Toronto,43.6511,-79.3832,America/Toronto,2024-07-22 06:07:58,India,Mumbai,1126.92,168,153,mobile,apple_pay,1
+Germany,Berlin,52.52,13.405,Europe/Berlin,2024-12-04 11:07:58,India,Mumbai,7492.51,134,108,mobile,google_pay,1
+Japan,Tokyo,35.6895,139.6917,Asia/Tokyo,2025-01-26 19:07:58,Japan,Tokyo,608.62,1,534,mobile,google_pay,0
+Canada,Toronto,43.6511,-79.3832,America/Toronto,2024-08-10 06:07:58,Canada,Toronto,1145.11,18,1117,web,credit_card,0
+Canada,Toronto,43.6511,-79.3832,America/Toronto,2024-09-29 06:07:58,Canada,Toronto,1319.43,13,4914,mobile,apple_pay,0
+Germany,Berlin,52.52,13.405,Europe/Berlin,2024-05-06 11:07:58,United States,New York,1115.86,174,16,web,google_pay,1
+Brazil,São Paulo,-23.5505,-46.6333,America/Sao_Paulo,2024-04-28 07:07:58,Brazil,São Paulo,1538.68,21,2571,web,apple_pay,0
+United States,New York,40.7128,-74.006,America/New_York,2024-12-25 06:07:58,United States,New York,2925.9,15,1490,web,credit_card,0
+United States,New York,40.7128,-74.006,America/New_York,2024-07-03 06:07:58,United States,New York,1783.99,29,547,web,paypal,0
+India,Mumbai,19.076,72.8777,Asia/Kolkata,2024-04-10 15:37:58,India,Mumbai,2884.18,18,509,mobile,google_pay,0
+Japan,Tokyo,35.6895,139.6917,Asia/Tokyo,2024-04-08 19:07:58,Japan,Tokyo,2477.6,3,472,mobile,paypal,0
+Germany,Berlin,52.52,13.405,Europe/Berlin,2024-07-25 11:07:58,Brazil,São Paulo,2711.37,86,79,web,google_pay,1
+Brazil,São Paulo,-23.5505,-46.6333,America/Sao_Paulo,2025-03-07 07:07:58,Brazil,São Paulo,4612.6,23,4809,mobile,credit_card,0
+India,Mumbai,19.076,72.8777,Asia/Kolkata,2024-12-17 15:37:58,India,Mumbai,3059.88,9,4433,mobile,google_pay,0
+South Africa,Johannesburg,-26.2041,28.0473,Africa/Johannesburg,2024-07-21 12:07:58,Canada,Toronto,3719.33,169,172,web,voucher,1
+South Africa,Johannesburg,-26.2041,28.0473,Africa/Johannesburg,2024-03-19 12:07:58,Brazil,São Paulo,4665.59,58,163,mobile,apple_pay,1
+Australia,Sydney,-33.8688,151.2093,Australia/Sydney,2024-04-06 21:07:58,Australia,Sydney,4514.72,124,142,web,paypal,1
+Australia,Sydney,-33.8688,151.2093,Australia/Sydney,2024-04-25 21:07:58,Australia,Sydney,3450.14,19,2706,web,apple_pay,0
+Germany,Berlin,52.52,13.405,Europe/Berlin,2024-06-17 11:07:58,Germany,Berlin,3438.05,24,3276,mobile,voucher,0
+United States,New York,40.7128,-74.006,America/New_York,2024-12-31 06:07:58,United States,New York,2483.84,5,2701,web,paypal,0
+United States,New York,40.7128,-74.006,America/New_York,2025-03-02 06:07:58,United States,New York,125.83,11,4129,mobile,paypal,0
+France,Paris,48.8566,2.3522,Europe/Paris,2024-06-24 11:07:58,France,Paris,1842.62,20,2118,web,google_pay,0
+France,Paris,48.8566,2.3522,Europe/Paris,2024-10-23 11:07:58,France,Paris,3440.8,16,4983,mobile,apple_pay,0
+United States,New York,40.7128,-74.006,America/New_York,2024-06-19 06:07:58,United States,New York,2532.6,10,4339,web,paypal,0
+Brazil,São Paulo,-23.5505,-46.6333,America/Sao_Paulo,2024-04-15 07:07:58,Brazil,São Paulo,3100.37,13,4605,web,voucher,0
+France,Paris,48.8566,2.3522,Europe/Paris,2024-09-07 11:07:58,France,Paris,725.15,28,1308,web,paypal,0
+Canada,Toronto,43.6511,-79.3832,America/Toronto,2025-02-17 06:07:58,Canada,Toronto,2447.88,9,1077,mobile,apple_pay,0
+Germany,Berlin,52.52,13.405,Europe/Berlin,2024-06-04 11:07:58,Germany,Berlin,1888.7,28,3086,web,google_pay,0
+Japan,Tokyo,35.6895,139.6917,Asia/Tokyo,2025-01-09 19:07:58,Japan,Tokyo,3632.88,10,4285,mobile,voucher,0
+France,Paris,48.8566,2.3522,Europe/Paris,2024-09-08 11:07:58,France,Paris,2948.06,23,2140,web,apple_pay,0
+France,Paris,48.8566,2.3522,Europe/Paris,2025-02-20 11:07:58,France,Paris,812.67,28,1576,mobile,voucher,0
+Brazil,São Paulo,-23.5505,-46.6333,America/Sao_Paulo,2024-06-29 07:07:58,Brazil,São Paulo,4828.54,26,4073,mobile,voucher,0
+Canada,Toronto,43.6511,-79.3832,America/Toronto,2024-12-02 06:07:58,Canada,Toronto,4907.25,12,2123,mobile,credit_card,0
+Australia,Sydney,-33.8688,151.2093,Australia/Sydney,2024-09-21 21:07:58,Australia,Sydney,233.29,21,2104,web,credit_card,0
+Australia,Sydney,-33.8688,151.2093,Australia/Sydney,2024-04-05 21:07:58,Australia,Sydney,4922.07,22,1996,mobile,google_pay,0
+United States,New York,40.7128,-74.006,America/New_York,2024-10-22 06:07:58,United States,New York,386.65,14,4262,web,google_pay,0
+Germany,Berlin,52.52,13.405,Europe/Berlin,2024-06-04 11:07:58,Germany,Berlin,643.89,17,3479,mobile,credit_card,0
+Australia,Sydney,-33.8688,151.2093,Australia/Sydney,2024-03-30 21:07:58,Australia,Sydney,597.12,21,944,mobile,paypal,0
+United Kingdom,London,51.5074,-0.1278,Europe/London,2025-02-27 10:07:58,United Kingdom,London,1669.87,14,2066,mobile,google_pay,0
+India,Mumbai,19.076,72.8777,Asia/Kolkata,2024-12-07 15:37:58,Brazil,São Paulo,7487.69,95,21,mobile,google_pay,1
+Australia,Sydney,-33.8688,151.2093,Australia/Sydney,2024-12-03 21:07:58,South Africa,Johannesburg,1553.52,141,155,mobile,apple_pay,1
+France,Paris,48.8566,2.3522,Europe/Paris,2024-11-06 11:07:58,France,Paris,1803.54,10,3285,web,paypal,0
+South Africa,Johannesburg,-26.2041,28.0473,Africa/Johannesburg,2024-04-09 12:07:58,South Africa,Johannesburg,1844.8,17,4099,mobile,google_pay,0
+United Kingdom,London,51.5074,-0.1278,Europe/London,2024-10-23 10:07:58,United Kingdom,London,2931.73,30,1115,web,credit_card,0
+United States,New York,40.7128,-74.006,America/New_York,2024-04-13 06:07:58,United States,New York,1485.77,14,583,mobile,google_pay,0
+Canada,Toronto,43.6511,-79.3832,America/Toronto,2025-03-01 06:07:58,Canada,Toronto,2325.05,5,3722,web,credit_card,0
+United Kingdom,London,51.5074,-0.1278,Europe/London,2024-12-27 10:07:58,United Kingdom,London,2666.27,9,42,web,voucher,0
+United States,New York,40.7128,-74.006,America/New_York,2024-08-06 06:07:58,United States,New York,1918.89,24,4534,web,credit_card,0
+South Africa,Johannesburg,-26.2041,28.0473,Africa/Johannesburg,2024-05-07 12:07:58,South Africa,Johannesburg,2621.08,14,595,mobile,google_pay,0
+France,Paris,48.8566,2.3522,Europe/Paris,2024-12-05 11:07:58,France,Paris,4719.07,7,3657,mobile,google_pay,0
+Germany,Berlin,52.52,13.405,Europe/Berlin,2024-05-19 11:07:58,Germany,Berlin,1486.25,25,315,mobile,credit_card,0
+United Kingdom,London,51.5074,-0.1278,Europe/London,2024-04-30 10:07:58,United Kingdom,London,2693.87,14,4866,mobile,credit_card,0
+Australia,Sydney,-33.8688,151.2093,Australia/Sydney,2024-11-27 21:07:58,Australia,Sydney,287.38,4,43,web,google_pay,0
+France,Paris,48.8566,2.3522,Europe/Paris,2025-02-17 11:07:58,France,Paris,4048.41,4,765,mobile,google_pay,0
+United States,New York,40.7128,-74.006,America/New_York,2024-04-06 06:07:58,United States,New York,3730.45,24,1353,mobile,paypal,0
+United Kingdom,London,51.5074,-0.1278,Europe/London,2024-09-16 10:07:58,Australia,Sydney,1794.27,153,59,web,paypal,1
+Brazil,São Paulo,-23.5505,-46.6333,America/Sao_Paulo,2024-03-21 07:07:58,Canada,Toronto,7182.97,180,6,mobile,voucher,1
+United Kingdom,London,51.5074,-0.1278,Europe/London,2025-01-31 10:07:58,United Kingdom,London,3418.42,27,4953,mobile,voucher,0
+Brazil,São Paulo,-23.5505,-46.6333,America/Sao_Paulo,2024-12-18 07:07:58,United Kingdom,London,1662.69,63,146,mobile,paypal,1
+India,Mumbai,19.076,72.8777,Asia/Kolkata,2024-11-30 15:37:58,India,Mumbai,3851.84,11,488,web,credit_card,0
+Canada,Toronto,43.6511,-79.3832,America/Toronto,2024-03-25 06:07:58,Australia,Sydney,3434.84,174,128,web,voucher,1
+United States,New York,40.7128,-74.006,America/New_York,2024-10-12 06:07:58,United States,New York,1511.73,18,51,mobile,apple_pay,0
+Germany,Berlin,52.52,13.405,Europe/Berlin,2024-09-09 11:07:58,Germany,Berlin,1945.49,20,3191,mobile,google_pay,0
+United Kingdom,London,51.5074,-0.1278,Europe/London,2024-06-28 10:07:58,United Kingdom,London,427.05,8,2149,mobile,google_pay,0
+France,Paris,48.8566,2.3522,Europe/Paris,2024-10-06 11:07:58,France,Paris,3068.33,12,4833,web,voucher,0
+United Kingdom,London,51.5074,-0.1278,Europe/London,2024-06-03 10:07:58,United Kingdom,London,265.85,20,3104,mobile,paypal,0
+South Africa,Johannesburg,-26.2041,28.0473,Africa/Johannesburg,2024-06-16 12:07:58,South Africa,Johannesburg,4613.32,29,3086,web,paypal,0
+Australia,Sydney,-33.8688,151.2093,Australia/Sydney,2024-12-30 21:07:58,Australia,Sydney,1989.39,23,2973,mobile,credit_card,0
+Germany,Berlin,52.52,13.405,Europe/Berlin,2024-04-20 11:07:58,Germany,Berlin,651.57,12,4391,web,paypal,0
+Canada,Toronto,43.6511,-79.3832,America/Toronto,2024-10-14 06:07:58,Canada,Toronto,2831.01,6,4431,web,voucher,0
+Germany,Berlin,52.52,13.405,Europe/Berlin,2025-03-11 11:07:58,Germany,Berlin,135.59,4,3225,mobile,voucher,0
+Australia,Sydney,-33.8688,151.2093,Australia/Sydney,2024-09-26 21:07:58,Australia,Sydney,4604.68,3,729,web,paypal,0
+Canada,Toronto,43.6511,-79.3832,America/Toronto,2024-06-09 06:07:58,Canada,Toronto,93.3,10,4173,web,voucher,0
+Japan,Tokyo,35.6895,139.6917,Asia/Tokyo,2024-09-13 19:07:58,Australia,Sydney,6846.84,106,43,web,voucher,1
+France,Paris,48.8566,2.3522,Europe/Paris,2024-08-12 11:07:58,France,Paris,1584.65,14,2966,mobile,apple_pay,0
+France,Paris,48.8566,2.3522,Europe/Paris,2024-04-28 11:07:58,France,Paris,4334.05,4,4803,web,voucher,0
+Japan,Tokyo,35.6895,139.6917,Asia/Tokyo,2024-06-09 19:07:58,Japan,Tokyo,1471.03,19,2432,web,apple_pay,0
+United States,New York,40.7128,-74.006,America/New_York,2025-01-23 06:07:58,Canada,Toronto,6231.53,79,77,web,paypal,1
+Australia,Sydney,-33.8688,151.2093,Australia/Sydney,2025-02-06 21:07:58,Australia,Sydney,1355.58,24,974,mobile,voucher,0
+United States,New York,40.7128,-74.006,America/New_York,2024-04-04 06:07:58,Japan,Tokyo,7183.62,150,141,web,credit_card,1
+France,Paris,48.8566,2.3522,Europe/Paris,2024-05-06 11:07:58,United States,New York,6266.98,96,101,mobile,credit_card,1
+Germany,Berlin,52.52,13.405,Europe/Berlin,2024-04-07 11:07:58,United States,New York,3991.59,103,48,mobile,voucher,1
+Germany,Berlin,52.52,13.405,Europe/Berlin,2024-12-23 11:07:58,Germany,Berlin,1752.42,2,1508,mobile,google_pay,0
+Australia,Sydney,-33.8688,151.2093,Australia/Sydney,2024-04-08 21:07:58,United States,New York,6289.95,60,133,web,credit_card,1
+Australia,Sydney,-33.8688,151.2093,Australia/Sydney,2024-11-09 21:07:58,Australia,Sydney,4782.76,21,3648,web,paypal,0
+Australia,Sydney,-33.8688,151.2093,Australia/Sydney,2024-06-22 21:07:58,Australia,Sydney,562.01,19,1545,mobile,paypal,0
+Australia,Sydney,-33.8688,151.2093,Australia/Sydney,2024-03-14 21:07:58,Australia,Sydney,1795.32,16,2944,web,credit_card,0
+Germany,Berlin,52.52,13.405,Europe/Berlin,2024-03-20 11:07:58,India,Mumbai,9053.08,66,156,web,credit_card,1
+United Kingdom,London,51.5074,-0.1278,Europe/London,2024-04-24 10:07:58,United Kingdom,London,1760.56,16,2838,mobile,voucher,0
+United States,New York,40.7128,-74.006,America/New_York,2024-07-02 06:07:58,United States,New York,2267.6,3,2140,mobile,google_pay,0
+Canada,Toronto,43.6511,-79.3832,America/Toronto,2024-04-23 06:07:58,Canada,Toronto,5018.87,166,174,web,credit_card,1
+India,Mumbai,19.076,72.8777,Asia/Kolkata,2024-12-02 15:37:58,India,Mumbai,3534.17,27,3568,mobile,credit_card,0
+Australia,Sydney,-33.8688,151.2093,Australia/Sydney,2024-05-06 21:07:58,Australia,Sydney,4806.45,8,1403,web,paypal,0
+Japan,Tokyo,35.6895,139.6917,Asia/Tokyo,2024-03-31 19:07:58,Japan,Tokyo,1434.54,12,4440,mobile,paypal,0
+Germany,Berlin,52.52,13.405,Europe/Berlin,2024-10-15 11:07:58,Germany,Berlin,2674.94,16,3012,web,paypal,0
+Australia,Sydney,-33.8688,151.2093,Australia/Sydney,2024-09-07 21:07:58,Australia,Sydney,1371.09,25,4283,mobile,paypal,0
+United States,New York,40.7128,-74.006,America/New_York,2024-03-14 06:07:58,Australia,Sydney,3492.67,50,50,mobile,voucher,1
+France,Paris,48.8566,2.3522,Europe/Paris,2024-09-09 11:07:58,France,Paris,4662.82,27,317,mobile,google_pay,0
+Australia,Sydney,-33.8688,151.2093,Australia/Sydney,2024-11-12 21:07:58,Australia,Sydney,2007.8,11,4512,mobile,google_pay,0
+South Africa,Johannesburg,-26.2041,28.0473,Africa/Johannesburg,2024-07-06 12:07:58,South Africa,Johannesburg,2259.74,18,4180,web,apple_pay,0
+Australia,Sydney,-33.8688,151.2093,Australia/Sydney,2024-11-13 21:07:58,Australia,Sydney,273.86,5,1043,web,credit_card,0
+United States,New York,40.7128,-74.006,America/New_York,2024-06-25 06:07:58,United States,New York,1756.16,22,4691,mobile,apple_pay,0
+United Kingdom,London,51.5074,-0.1278,Europe/London,2024-06-10 10:07:58,United Kingdom,London,4369.82,12,1675,web,google_pay,0
+Brazil,São Paulo,-23.5505,-46.6333,America/Sao_Paulo,2025-01-04 07:07:58,Brazil,São Paulo,4439.24,8,4264,mobile,credit_card,0
+United States,New York,40.7128,-74.006,America/New_York,2024-12-19 06:07:58,United States,New York,3449.61,17,902,web,voucher,0
+United States,New York,40.7128,-74.006,America/New_York,2024-08-15 06:07:58,United States,New York,3184.1,5,3743,web,google_pay,0
+Brazil,São Paulo,-23.5505,-46.6333,America/Sao_Paulo,2024-04-09 07:07:58,Brazil,São Paulo,2259.18,20,1522,mobile,google_pay,0
+France,Paris,48.8566,2.3522,Europe/Paris,2024-05-27 11:07:58,France,Paris,4830.45,5,46,web,google_pay,0
+Canada,Toronto,43.6511,-79.3832,America/Toronto,2024-03-11 06:07:58,Canada,Toronto,356.42,14,1753,web,apple_pay,0
+Japan,Tokyo,35.6895,139.6917,Asia/Tokyo,2024-08-05 19:07:58,Japan,Tokyo,2134.68,19,3476,web,credit_card,0
+United States,New York,40.7128,-74.006,America/New_York,2024-08-06 06:07:58,United States,New York,4762.17,18,4449,web,voucher,0
+Canada,Toronto,43.6511,-79.3832,America/Toronto,2024-05-29 06:07:58,Canada,Toronto,2639.84,13,3399,web,credit_card,0
+United Kingdom,London,51.5074,-0.1278,Europe/London,2025-02-11 10:07:58,United Kingdom,London,4982.78,23,671,mobile,google_pay,0
+Germany,Berlin,52.52,13.405,Europe/Berlin,2024-07-16 11:07:58,France,Paris,5929.61,189,111,mobile,google_pay,1
+Canada,Toronto,43.6511,-79.3832,America/Toronto,2024-12-23 06:07:58,Canada,Toronto,44.85,9,1967,mobile,voucher,0
+Brazil,São Paulo,-23.5505,-46.6333,America/Sao_Paulo,2024-09-30 07:07:58,Brazil,São Paulo,4839.13,4,2354,web,credit_card,0
+Brazil,São Paulo,-23.5505,-46.6333,America/Sao_Paulo,2024-07-29 07:07:58,Brazil,São Paulo,2744.37,19,3338,mobile,voucher,0
+Canada,Toronto,43.6511,-79.3832,America/Toronto,2024-12-14 06:07:58,Canada,Toronto,3723.83,8,1193,mobile,voucher,0
+France,Paris,48.8566,2.3522,Europe/Paris,2025-02-01 11:07:58,France,Paris,4587.34,13,3391,web,paypal,0
+India,Mumbai,19.076,72.8777,Asia/Kolkata,2025-01-26 15:37:58,India,Mumbai,4467.5,19,2504,mobile,apple_pay,0
+United Kingdom,London,51.5074,-0.1278,Europe/London,2025-03-09 10:07:58,United Kingdom,London,3623.95,29,4375,mobile,voucher,0
+France,Paris,48.8566,2.3522,Europe/Paris,2024-03-22 11:07:58,France,Paris,1917.67,24,2887,mobile,apple_pay,0
+Australia,Sydney,-33.8688,151.2093,Australia/Sydney,2024-12-13 21:07:58,Australia,Sydney,9989.02,132,35,mobile,paypal,1
+Brazil,São Paulo,-23.5505,-46.6333,America/Sao_Paulo,2024-03-19 07:07:58,Brazil,São Paulo,3589.48,30,1495,mobile,apple_pay,0
+South Africa,Johannesburg,-26.2041,28.0473,Africa/Johannesburg,2024-07-06 12:07:58,South Africa,Johannesburg,4377.03,24,4175,web,apple_pay,0
+Japan,Tokyo,35.6895,139.6917,Asia/Tokyo,2024-08-03 19:07:58,Japan,Tokyo,1108.22,28,2947,mobile,google_pay,0
+Brazil,São Paulo,-23.5505,-46.6333,America/Sao_Paulo,2025-01-03 07:07:58,Brazil,São Paulo,3257.12,11,1733,mobile,credit_card,0
+Australia,Sydney,-33.8688,151.2093,Australia/Sydney,2025-02-14 21:07:58,Australia,Sydney,3053.63,12,900,web,apple_pay,0
+India,Mumbai,19.076,72.8777,Asia/Kolkata,2025-02-20 15:37:58,Japan,Tokyo,4897.67,144,9,web,credit_card,1
+United States,New York,40.7128,-74.006,America/New_York,2024-05-14 06:07:58,United States,New York,4100.59,12,1019,mobile,paypal,0
+Australia,Sydney,-33.8688,151.2093,Australia/Sydney,2024-12-24 21:07:58,Australia,Sydney,4899.47,30,4929,web,apple_pay,0
+France,Paris,48.8566,2.3522,Europe/Paris,2024-07-15 11:07:58,France,Paris,4912.55,9,1461,mobile,credit_card,0
+Australia,Sydney,-33.8688,151.2093,Australia/Sydney,2024-03-31 21:07:58,Australia,Sydney,3136.01,19,1426,mobile,apple_pay,0
+Brazil,São Paulo,-23.5505,-46.6333,America/Sao_Paulo,2024-06-03 07:07:58,Brazil,São Paulo,244.93,6,3071,web,google_pay,0
+France,Paris,48.8566,2.3522,Europe/Paris,2024-11-20 11:07:58,France,Paris,4928.25,12,3776,web,voucher,0
+France,Paris,48.8566,2.3522,Europe/Paris,2024-08-09 11:07:58,France,Paris,3421.71,4,4516,web,paypal,0
+Germany,Berlin,52.52,13.405,Europe/Berlin,2025-01-01 11:07:58,Germany,Berlin,3668.24,10,2887,web,paypal,0
+Germany,Berlin,52.52,13.405,Europe/Berlin,2024-06-04 11:07:58,Germany,Berlin,3039.8,29,3209,web,voucher,0
+Brazil,São Paulo,-23.5505,-46.6333,America/Sao_Paulo,2024-06-02 07:07:58,Brazil,São Paulo,4159.0,13,2311,mobile,paypal,0
+South Africa,Johannesburg,-26.2041,28.0473,Africa/Johannesburg,2024-05-06 12:07:58,South Africa,Johannesburg,3450.52,6,4168,web,paypal,0
+United Kingdom,London,51.5074,-0.1278,Europe/London,2024-07-24 10:07:58,United Kingdom,London,4514.37,13,827,web,paypal,0
+Australia,Sydney,-33.8688,151.2093,Australia/Sydney,2024-10-17 21:07:58,Germany,Berlin,8587.5,68,5,web,apple_pay,1
+India,Mumbai,19.076,72.8777,Asia/Kolkata,2024-08-12 15:37:58,India,Mumbai,2693.26,13,2019,mobile,voucher,0
+Australia,Sydney,-33.8688,151.2093,Australia/Sydney,2024-06-24 21:07:58,United States,New York,4814.74,104,98,mobile,apple_pay,1
+India,Mumbai,19.076,72.8777,Asia/Kolkata,2024-10-21 15:37:58,India,Mumbai,798.23,9,3711,mobile,credit_card,0
+Canada,Toronto,43.6511,-79.3832,America/Toronto,2024-06-03 06:07:58,Canada,Toronto,3022.86,16,490,mobile,paypal,0
+France,Paris,48.8566,2.3522,Europe/Paris,2024-03-24 11:07:58,France,Paris,449.71,27,2502,web,paypal,0
+Canada,Toronto,43.6511,-79.3832,America/Toronto,2024-09-19 06:07:58,Canada,Toronto,4675.93,9,4502,web,credit_card,0
+United States,New York,40.7128,-74.006,America/New_York,2025-01-17 06:07:58,United States,New York,3563.26,1,1593,web,google_pay,0
+Australia,Sydney,-33.8688,151.2093,Australia/Sydney,2024-04-15 21:07:58,Australia,Sydney,979.91,7,3477,web,apple_pay,0
+India,Mumbai,19.076,72.8777,Asia/Kolkata,2024-08-06 15:37:58,India,Mumbai,347.09,12,1083,mobile,credit_card,0
+India,Mumbai,19.076,72.8777,Asia/Kolkata,2025-03-05 15:37:58,India,Mumbai,4064.16,18,1841,web,apple_pay,0
+Germany,Berlin,52.52,13.405,Europe/Berlin,2024-07-20 11:07:58,Germany,Berlin,2439.24,7,4039,mobile,apple_pay,0
+Germany,Berlin,52.52,13.405,Europe/Berlin,2024-10-31 11:07:58,Germany,Berlin,9931.21,76,28,web,voucher,1
+United States,New York,40.7128,-74.006,America/New_York,2024-10-20 06:07:58,India,Mumbai,5435.37,63,101,mobile,apple_pay,1
+India,Mumbai,19.076,72.8777,Asia/Kolkata,2024-06-28 15:37:58,India,Mumbai,3676.67,20,3955,web,credit_card,0
+Australia,Sydney,-33.8688,151.2093,Australia/Sydney,2024-10-10 21:07:58,Australia,Sydney,1081.85,2,4831,mobile,google_pay,0
+South Africa,Johannesburg,-26.2041,28.0473,Africa/Johannesburg,2024-12-07 12:07:58,South Africa,Johannesburg,3656.47,8,2201,web,google_pay,0
+Germany,Berlin,52.52,13.405,Europe/Berlin,2024-03-16 11:07:58,Germany,Berlin,2736.09,12,1024,mobile,credit_card,0
+United States,New York,40.7128,-74.006,America/New_York,2024-05-04 06:07:58,United States,New York,2856.51,12,747,web,apple_pay,0
+Australia,Sydney,-33.8688,151.2093,Australia/Sydney,2024-09-22 21:07:58,Australia,Sydney,2153.95,22,56,mobile,google_pay,0
+Japan,Tokyo,35.6895,139.6917,Asia/Tokyo,2024-05-18 19:07:58,Japan,Tokyo,1913.84,18,147,web,apple_pay,0
+Japan,Tokyo,35.6895,139.6917,Asia/Tokyo,2024-09-21 19:07:58,Japan,Tokyo,3685.72,4,584,web,apple_pay,0
+Brazil,São Paulo,-23.5505,-46.6333,America/Sao_Paulo,2024-06-17 07:07:58,Brazil,São Paulo,918.86,5,4996,web,voucher,0
+South Africa,Johannesburg,-26.2041,28.0473,Africa/Johannesburg,2024-10-12 12:07:58,United States,New York,4993.9,146,5,web,voucher,1
+Australia,Sydney,-33.8688,151.2093,Australia/Sydney,2024-07-24 21:07:58,Australia,Sydney,1455.84,19,1094,mobile,google_pay,0
+Brazil,São Paulo,-23.5505,-46.6333,America/Sao_Paulo,2025-03-03 07:07:58,Brazil,São Paulo,4712.96,22,164,mobile,paypal,0
+United Kingdom,London,51.5074,-0.1278,Europe/London,2024-07-04 10:07:58,United States,New York,9824.99,104,177,mobile,paypal,1
+South Africa,Johannesburg,-26.2041,28.0473,Africa/Johannesburg,2024-04-10 12:07:58,South Africa,Johannesburg,1825.86,4,1509,mobile,google_pay,0
+Germany,Berlin,52.52,13.405,Europe/Berlin,2025-02-21 11:07:58,Germany,Berlin,3488.14,28,1972,web,google_pay,0
+Japan,Tokyo,35.6895,139.6917,Asia/Tokyo,2024-03-15 19:07:58,Japan,Tokyo,2601.63,21,2570,mobile,google_pay,0
+Japan,Tokyo,35.6895,139.6917,Asia/Tokyo,2025-03-01 19:07:58,Japan,Tokyo,2836.84,8,3911,mobile,credit_card,0
+Canada,Toronto,43.6511,-79.3832,America/Toronto,2024-11-16 06:07:58,Canada,Toronto,4660.83,108,88,web,paypal,1
+United States,New York,40.7128,-74.006,America/New_York,2024-05-30 06:07:58,United States,New York,680.35,26,150,mobile,credit_card,0
+France,Paris,48.8566,2.3522,Europe/Paris,2024-03-12 11:07:58,France,Paris,3158.67,26,2939,web,paypal,0
+France,Paris,48.8566,2.3522,Europe/Paris,2025-01-13 11:07:58,France,Paris,3068.69,19,1822,mobile,voucher,0
+Australia,Sydney,-33.8688,151.2093,Australia/Sydney,2024-09-29 21:07:58,Australia,Sydney,1697.6,1,1677,mobile,voucher,0
+Japan,Tokyo,35.6895,139.6917,Asia/Tokyo,2025-01-23 19:07:58,Japan,Tokyo,4243.17,23,2358,mobile,apple_pay,0
+Australia,Sydney,-33.8688,151.2093,Australia/Sydney,2024-03-21 21:07:58,Australia,Sydney,490.89,20,2679,web,credit_card,0
+South Africa,Johannesburg,-26.2041,28.0473,Africa/Johannesburg,2024-11-03 12:07:58,South Africa,Johannesburg,4666.92,23,4749,mobile,credit_card,0
+South Africa,Johannesburg,-26.2041,28.0473,Africa/Johannesburg,2024-06-19 12:07:58,South Africa,Johannesburg,2238.07,26,2652,web,paypal,0
+France,Paris,48.8566,2.3522,Europe/Paris,2025-03-07 11:07:58,France,Paris,2565.47,18,1549,web,paypal,0
+India,Mumbai,19.076,72.8777,Asia/Kolkata,2024-08-28 15:37:58,India,Mumbai,209.87,15,4866,web,credit_card,0
+France,Paris,48.8566,2.3522,Europe/Paris,2024-09-08 11:07:58,France,Paris,4297.56,13,1105,mobile,apple_pay,0
+United States,New York,40.7128,-74.006,America/New_York,2024-07-07 06:07:58,United States,New York,237.78,21,2653,mobile,paypal,0
+Brazil,São Paulo,-23.5505,-46.6333,America/Sao_Paulo,2024-09-05 07:07:58,Brazil,São Paulo,1259.69,20,824,web,paypal,0
+France,Paris,48.8566,2.3522,Europe/Paris,2025-02-02 11:07:58,France,Paris,913.61,22,1053,mobile,paypal,0
+France,Paris,48.8566,2.3522,Europe/Paris,2025-01-24 11:07:58,France,Paris,4457.65,22,3059,mobile,voucher,0
+South Africa,Johannesburg,-26.2041,28.0473,Africa/Johannesburg,2025-03-03 12:07:58,South Africa,Johannesburg,4906.88,30,2777,mobile,credit_card,0
+France,Paris,48.8566,2.3522,Europe/Paris,2024-06-21 11:07:58,France,Paris,1138.37,20,1384,web,voucher,0
+United States,New York,40.7128,-74.006,America/New_York,2024-04-05 06:07:58,Brazil,São Paulo,4404.6,90,113,mobile,voucher,1
+Germany,Berlin,52.52,13.405,Europe/Berlin,2024-05-23 11:07:58,Germany,Berlin,2912.04,12,4912,web,credit_card,0
+Australia,Sydney,-33.8688,151.2093,Australia/Sydney,2024-12-01 21:07:58,Australia,Sydney,4557.61,5,4389,web,apple_pay,0
+Canada,Toronto,43.6511,-79.3832,America/Toronto,2024-09-24 06:07:58,United Kingdom,London,5558.06,181,151,web,credit_card,1
+Japan,Tokyo,35.6895,139.6917,Asia/Tokyo,2024-10-24 19:07:58,United Kingdom,London,7008.06,157,76,mobile,apple_pay,1
+South Africa,Johannesburg,-26.2041,28.0473,Africa/Johannesburg,2024-11-29 12:07:58,South Africa,Johannesburg,2403.36,6,2366,web,google_pay,0
+South Africa,Johannesburg,-26.2041,28.0473,Africa/Johannesburg,2025-02-19 12:07:58,South Africa,Johannesburg,4939.98,19,765,web,credit_card,0
+France,Paris,48.8566,2.3522,Europe/Paris,2024-09-20 11:07:58,France,Paris,4734.69,7,3939,mobile,voucher,0
+India,Mumbai,19.076,72.8777,Asia/Kolkata,2025-02-21 15:37:58,India,Mumbai,4655.05,2,1116,mobile,voucher,0
+United States,New York,40.7128,-74.006,America/New_York,2024-09-10 06:07:58,United States,New York,962.85,22,3974,web,google_pay,0
+France,Paris,48.8566,2.3522,Europe/Paris,2025-02-10 11:07:58,France,Paris,2603.43,12,3005,mobile,apple_pay,0
+South Africa,Johannesburg,-26.2041,28.0473,Africa/Johannesburg,2024-07-05 12:07:58,South Africa,Johannesburg,969.92,17,3402,mobile,paypal,0
+United Kingdom,London,51.5074,-0.1278,Europe/London,2024-06-18 10:07:58,United Kingdom,London,4735.62,12,4369,mobile,voucher,0
+Canada,Toronto,43.6511,-79.3832,America/Toronto,2024-08-10 06:07:58,Brazil,São Paulo,4766.5,130,86,web,google_pay,1
+United Kingdom,London,51.5074,-0.1278,Europe/London,2024-07-30 10:07:58,Germany,Berlin,3353.82,181,23,mobile,credit_card,1
+Japan,Tokyo,35.6895,139.6917,Asia/Tokyo,2025-01-22 19:07:58,Japan,Tokyo,538.92,4,1190,web,voucher,0
